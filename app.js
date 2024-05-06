@@ -7,10 +7,60 @@ app.use(express.static('src'));
 
 // Mengatur rute untuk halaman utama
 app.get('/', (req, res) => {
+
   res.send("Kelompok 7");
+
 });
 
 // Menjalankan server
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+// Menjalankan server
+
+
 const PORT = 3000;
 app.listen(PORT, () => {
   console.log(`Server berjalan di http://localhost:${PORT}`);
