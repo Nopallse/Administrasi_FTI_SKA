@@ -7,7 +7,7 @@ app.use(express.static('src'));
 
 // Mengatur rute untuk halaman utama
 app.get('/', (req, res) => {
-  res.send("hello");
+  res.send("Kelompok 7");
 });
 
 // Menjalankan server
